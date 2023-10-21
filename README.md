@@ -1,6 +1,6 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *Data Dashboard*
 
-Submitted by: **Data Dashboard**
+Submitted by: **Gerald Akorli**
 
 This web app: **A crypto dashboard**
 
